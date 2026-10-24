@@ -7,3 +7,9 @@ Vítej v mém projektu o volném čase a aktivitách, které mě baví.
 - Turistika
 - Fotografie
 - Cyklistika
+
+## Turistika
+
+Turistika mi umožňuje poznávat přírodu, hory a nová místa.
+
+![Ilustrace turistiky](images/turistika.svg)
