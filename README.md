@@ -25,3 +25,7 @@ Fotografování mi pomáhá zachytit zajímavé okamžiky a krásu okolního sv�
 Jízda na kole je skvělý způsob, jak sportovat a objevovat nová místa.
 
 ![Ilustrace cyklistiky](images/cyklistika.svg)
+
+## Moje cíle
+
+Podrobnější plán najdeš v dokumentu [Moje cíle](docs/moje-cile.md).
