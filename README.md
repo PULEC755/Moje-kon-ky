@@ -33,3 +33,4 @@ Podrobnější plán najdeš v dokumentu [Moje cíle](docs/moje-cile.md).
 ## Užitečné odkazy
 
 - [Wikimedia Commons – fotografie a média](https://commons.wikimedia.org/)
+- [AllTrails – inspirace pro turistické trasy](https://www.alltrails.com/)
