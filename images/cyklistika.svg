@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300">
+<rect width="640" height="300" fill="#e4f5e9"/>
+<circle cx="520" cy="65" r="32" fill="#f6bd60"/>
+<path d="M0 220 Q150 170 300 225 T640 200 L640 300 L0 300Z" fill="#95c78b"/>
+<circle cx="190" cy="210" r="58" fill="none" stroke="#344e41" stroke-width="8"/>
+<circle cx="420" cy="210" r="58" fill="none" stroke="#344e41" stroke-width="8"/>
+<path d="M190 210 L270 125 L330 210 L190 210 L250 210 L300 130 L420 210 L330 210 L300 130" fill="none" stroke="#e76f51" stroke-width="8" stroke-linejoin="round"/>
+<circle cx="300" cy="105" r="18" fill="#e9c46a"/>
+<path d="M300 125 L270 165 L320 175 L340 145" fill="none" stroke="#264653" stroke-width="12" stroke-linecap="round"/>
+<text x="25" y="42" font-size="26" font-family="Arial" fill="#264653">Cyklistika</text>
+</svg>
