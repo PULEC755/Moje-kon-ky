@@ -11,3 +11,9 @@
 ## Cyklistika
 - Pravidelně jezdit na kole.
 - Objevovat nové cyklotrasy.
+
+## Jak budu postupovat?
+
+1. Vyhradím si pravidelný čas na své koníčky.
+2. Budu si zapisovat dosažené cíle.
+3. Na konci každého měsíce zhodnotím svůj pokrok.
