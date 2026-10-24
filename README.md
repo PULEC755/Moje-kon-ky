@@ -13,3 +13,9 @@ Vítej v mém projektu o volném čase a aktivitách, které mě baví.
 Turistika mi umožňuje poznávat přírodu, hory a nová místa.
 
 ![Ilustrace turistiky](images/turistika.svg)
+
+## Fotografie
+
+Fotografování mi pomáhá zachytit zajímavé okamžiky a krásu okolního světa.
+
+![Ilustrace fotografie](images/fotografie.svg)
