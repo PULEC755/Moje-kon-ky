@@ -19,3 +19,9 @@ Turistika mi umožňuje poznávat přírodu, hory a nová místa.
 Fotografování mi pomáhá zachytit zajímavé okamžiky a krásu okolního světa.
 
 ![Ilustrace fotografie](images/fotografie.svg)
+
+## Cyklistika
+
+Jízda na kole je skvělý způsob, jak sportovat a objevovat nová místa.
+
+![Ilustrace cyklistiky](images/cyklistika.svg)
