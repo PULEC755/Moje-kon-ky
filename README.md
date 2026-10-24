@@ -41,3 +41,8 @@ Podrobnější plán najdeš v dokumentu [Moje cíle](docs/moje-cile.md).
 - **Odpočinek:** mohu si odpočinout od každodenních povinností.
 - **Poznávání:** objevuji nová místa a získávám zkušenosti.
 - **Kreativita:** při fotografování hledám zajímavé pohledy na svět.
+
+## Závěr
+
+Moje koníčky mi přinášejí radost, nové zážitky a příležitost se zlepšovat.
+Tento projekt budu postupně rozvíjet o další zkušenosti a fotografie.
