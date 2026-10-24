@@ -34,3 +34,10 @@ Podrobnější plán najdeš v dokumentu [Moje cíle](docs/moje-cile.md).
 
 - [Wikimedia Commons – fotografie a média](https://commons.wikimedia.org/)
 - [AllTrails – inspirace pro turistické trasy](https://www.alltrails.com/)
+
+## Proč mám rád tyto koníčky?
+
+- **Pohyb:** pomáhá mi udržovat aktivní životní styl.
+- **Odpočinek:** mohu si odpočinout od každodenních povinností.
+- **Poznávání:** objevuji nová místa a získávám zkušenosti.
+- **Kreativita:** při fotografování hledám zajímavé pohledy na svět.
