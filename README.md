@@ -29,3 +29,7 @@ Jízda na kole je skvělý způsob, jak sportovat a objevovat nová místa.
 ## Moje cíle
 
 Podrobnější plán najdeš v dokumentu [Moje cíle](docs/moje-cile.md).
+
+## Užitečné odkazy
+
+- [Wikimedia Commons – fotografie a média](https://commons.wikimedia.org/)
